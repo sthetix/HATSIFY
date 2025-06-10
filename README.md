@@ -18,26 +18,26 @@ HATSIFY helps you easily switch between different network configurations on your
 ## 📱 Network Modes
 
 ### 🛡️ **Default (Both Offline)** - *Recommended*
-- **sysMMC**: Offline (blocked from Nintendo)
-- **emuMMC**: Offline (blocked from Nintendo)
+- **sysMMC**: Offline (blocked from Nintendo Online Service)
+- **emuMMC**: Offline (blocked from Nintendo Online Service)
 - **Risk Level**: ✅ **Safe** - No ban risk
 - **Best for**: General homebrew use, piracy protection
 
 ### ⚠️ **sysMMC Online** 
-- **sysMMC**: Online (can connect to Nintendo)
-- **emuMMC**: Offline (blocked from Nintendo)  
+- **sysMMC**: Online (can connect to Nintendo Online Service)
+- **emuMMC**: Offline (blocked from Nintendo Online Service)  
 - **Risk Level**: 🟡 **Medium** - Some ban risk on sysMMC
 - **Best for**: Playing legitimate games online while keeping emuMMC safe
 
 ### ⚠️ **emuMMC Online**
-- **sysMMC**: Offline (blocked from Nintendo)
-- **emuMMC**: Online (can connect to Nintendo)
+- **sysMMC**: Offline (blocked from Nintendo Online Service)
+- **emuMMC**: Online (can connect to Nintendo Online Service)
 - **Risk Level**: 🟡 **Medium** - Some ban risk on emuMMC
 - **Best for**: Testing or when you need emuMMC online features
 
 ### 🚨 **Both Online (High Risk)**
-- **sysMMC**: Online (can connect to Nintendo)
-- **emuMMC**: Online (can connect to Nintendo)
+- **sysMMC**: Online (can connect to Nintendo Online Service)
+- **emuMMC**: Online (can connect to Nintendo Online Service)
 - **Risk Level**: 🔴 **High** - Maximum ban risk
 - **Best for**: Advanced users who understand the risks
 
