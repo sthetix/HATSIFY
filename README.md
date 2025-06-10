@@ -54,7 +54,7 @@ HATSIFY helps you easily switch between different network configurations on your
 2. **Choose** your desired network mode from the menu
 3. **Read the warnings** carefully for risky modes
 4. **Confirm** your selection when prompted
-5. **Reboot** your console for changes to take effect
+5. **Launch** your sysMMC CFW / emuMMC
 
 The tool will automatically configure all necessary files for your chosen mode.
 
