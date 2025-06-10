@@ -9,7 +9,6 @@ HATSIFY helps you easily switch between different network configurations on your
   <br>
   <em>HATSIFY's clean and intuitive interface</em>
 </div>
-*HATSIFY's clean and intuitive interface*
 
 ## 🌟 Features
 
