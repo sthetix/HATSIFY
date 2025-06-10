@@ -4,7 +4,7 @@
 
 HATSIFY helps you easily switch between different network configurations on your Nintendo Switch, allowing you to control when your sysMMC or emuMMC can connect to Nintendo's servers.
 
-![HATSIFY Menu](screenshots/menu.jpg)
+![HATSIFY Interface](images/hatsify.jpg)
 *HATSIFY's clean and intuitive interface*
 
 ## 🌟 Features
